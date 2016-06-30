@@ -1,7 +1,7 @@
 module Myob
   module Api
     module Model
-      class InvoiceTimeBilling < Base
+      class InvoiceTimebilling < Base
         def model_route
           'Sale/Invoice/TimeBilling'
         end
