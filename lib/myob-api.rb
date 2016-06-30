@@ -19,6 +19,8 @@ require 'myob/api/models/employee_payroll_advice'
 require 'myob/api/models/customer_payment'
 require 'myob/api/models/invoice'
 require 'myob/api/models/invoice_item'
+require 'myob/api/models/invoice_timebilling'
+
 
 require 'myob/api/models/payroll_category'
 require 'myob/api/models/wage'
