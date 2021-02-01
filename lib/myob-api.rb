@@ -21,6 +21,7 @@ require 'myob/api/models/invoice'
 require 'myob/api/models/invoice_item'
 require 'myob/api/models/invoice_timebilling'
 require 'myob/api/models/invoice_professional'
+require 'myob/api/models/invoice_service'
 
 require 'myob/api/models/timebilling_activity'
 
